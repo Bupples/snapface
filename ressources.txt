@@ -1,1 +1,3 @@
-link to course: https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
+link to courses:
+https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular
+https://openclassrooms.com/fr/courses/7471271-completez-vos-connaissances-sur-angular
