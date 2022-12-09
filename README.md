@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Courses
 
-This project was made following those two [beginner](https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular) and [intermediate]https://openclassrooms.com/fr/courses/7471271-completez-vos-connaissances-sur-angular) courses on [Open Classrooms](https://openclassrooms.com/)
+This project was made following those two [beginner](https://openclassrooms.com/fr/courses/7471261-debutez-avec-angular) and [intermediate](https://openclassrooms.com/fr/courses/7471271-completez-vos-connaissances-sur-angular) courses on [Open Classrooms](https://openclassrooms.com/)
 
 ## Concepts
 
